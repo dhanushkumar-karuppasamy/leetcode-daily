@@ -28,6 +28,7 @@ leetcode-daily/
 │   │   │   ├── Day001_154_FindMinimumInRotatedSortedArrayII.cpp
 │   │   │   ├── Day002_1306_JumpGameIII.cpp
 │   │   │   ├── Day003_2540_MinimumCommonValue.cpp
+│   │   │   ├── Day004_2657_FindThePrefixCommonArrayOfTwoArrays.cpp
 │   │   │   └── ...
 │   │   └── ...
 │   └── ...
@@ -43,6 +44,7 @@ leetcode-daily/
 | 001 | 2026-05-16 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | Binary Search | [View](solutions/2026/May/Day001_154_FindMinimumInRotatedSortedArrayII.cpp) |
 | 002 | 2026-05-17 | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/) | 🟡 Medium | BFS, DFS, Array | [View](solutions/2026/May/Day002_1306_JumpGameIII.cpp) |
 | 003 | 2026-05-19 | [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | 🟢 Easy | Binary Search, Two Pointers, Array | [View](solutions/2026/May/Day003_2540_MinimumCommonValue.cpp) |
+| 004 | 2026-05-20 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | Array, Hash Table | [View](solutions/2026/May/Day004_2657_FindThePrefixCommonArrayOfTwoArrays.cpp) |
 
 ---
 
@@ -53,6 +55,7 @@ leetcode-daily/
 ![BFS](https://img.shields.io/badge/-BFS-purple)
 ![DFS](https://img.shields.io/badge/-DFS-orange)
 ![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-teal)
+![Hash Table](https://img.shields.io/badge/-Hash%20Table-red)
 
 ---
 
