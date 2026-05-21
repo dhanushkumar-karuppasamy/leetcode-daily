@@ -29,6 +29,7 @@ leetcode-daily/
 │   │   │   ├── Day002_1306_JumpGameIII.cpp
 │   │   │   ├── Day003_2540_MinimumCommonValue.cpp
 │   │   │   ├── Day004_2657_FindThePrefixCommonArrayOfTwoArrays.cpp
+│   │   │   ├── Day005_3043_FindTheLengthOfTheLongestCommonPrefix.cpp
 │   │   │   └── ...
 │   │   └── ...
 │   └── ...
@@ -45,6 +46,7 @@ leetcode-daily/
 | 002 | 2026-05-17 | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/) | 🟡 Medium | BFS, DFS, Array | [View](solutions/2026/May/Day002_1306_JumpGameIII.cpp) |
 | 003 | 2026-05-19 | [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | 🟢 Easy | Binary Search, Two Pointers, Array | [View](solutions/2026/May/Day003_2540_MinimumCommonValue.cpp) |
 | 004 | 2026-05-20 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | Array, Hash Table | [View](solutions/2026/May/Day004_2657_FindThePrefixCommonArrayOfTwoArrays.cpp) |
+| 005 | 2026-05-21 | [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | 🟡 Medium | Array, Hash Table, String, Trie | [View](solutions/2026/May/Day005_3043_FindTheLengthOfTheLongestCommonPrefix.cpp) |
 
 ---
 
@@ -56,6 +58,8 @@ leetcode-daily/
 ![DFS](https://img.shields.io/badge/-DFS-orange)
 ![Two Pointers](https://img.shields.io/badge/-Two%20Pointers-teal)
 ![Hash Table](https://img.shields.io/badge/-Hash%20Table-red)
+![String](https://img.shields.io/badge/-String-yellow)
+![Trie](https://img.shields.io/badge/-Trie-blueviolet)
 
 ---
 
