@@ -31,6 +31,7 @@ leetcode-daily/
 │   │   │   ├── Day004_2657_FindThePrefixCommonArrayOfTwoArrays.cpp
 │   │   │   ├── Day005_3043_FindTheLengthOfTheLongestCommonPrefix.cpp
 │   │   │   ├── Day006_33_SearchInRotatedSortedArray.cpp
+│   │   │   ├── Day007_1752_CheckIfArrayIsSortedAndRotated.cpp
 │   │   │   └── ...
 │   │   └── ...
 │   └── ...
@@ -49,6 +50,7 @@ leetcode-daily/
 | 004 | 2026-05-20 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | Array, Hash Table | [View](solutions/2026/May/Day004_2657_FindThePrefixCommonArrayOfTwoArrays.cpp) |
 | 005 | 2026-05-21 | [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | 🟡 Medium | Array, Hash Table, String, Trie | [View](solutions/2026/May/Day005_3043_FindTheLengthOfTheLongestCommonPrefix.cpp) |
 | 006 | 2026-05-22 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Array, Binary Search | [View](solutions/2026/May/Day006_33_SearchInRotatedSortedArray.cpp) |
+| 007 | 2026-05-23 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | Array | [View](solutions/2026/May/Day007_1752_CheckIfArrayIsSortedAndRotated.cpp) |
 
 ---
 
