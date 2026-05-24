@@ -32,6 +32,7 @@ leetcode-daily/
 │   │   │   ├── Day005_3043_FindTheLengthOfTheLongestCommonPrefix.cpp
 │   │   │   ├── Day006_33_SearchInRotatedSortedArray.cpp
 │   │   │   ├── Day007_1752_CheckIfArrayIsSortedAndRotated.cpp
+│   │   │   ├── Day008_1340_JumpGameV.cpp
 │   │   │   └── ...
 │   │   └── ...
 │   └── ...
@@ -51,6 +52,7 @@ leetcode-daily/
 | 005 | 2026-05-21 | [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | 🟡 Medium | Array, Hash Table, String, Trie | [View](solutions/2026/May/Day005_3043_FindTheLengthOfTheLongestCommonPrefix.cpp) |
 | 006 | 2026-05-22 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Array, Binary Search | [View](solutions/2026/May/Day006_33_SearchInRotatedSortedArray.cpp) |
 | 007 | 2026-05-23 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | Array | [View](solutions/2026/May/Day007_1752_CheckIfArrayIsSortedAndRotated.cpp) |
+| 008 | 2026-05-24 | [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/) | 🔴 Hard | Array, Dynamic Programming, Memoization | [View](solutions/2026/May/Day008_1340_JumpGameV.cpp) |
 
 ---
 
@@ -64,6 +66,7 @@ leetcode-daily/
 ![Hash Table](https://img.shields.io/badge/-Hash%20Table-red)
 ![String](https://img.shields.io/badge/-String-yellow)
 ![Trie](https://img.shields.io/badge/-Trie-blueviolet)
+![Dynamic Programming](https://img.shields.io/badge/-Dynamic%20Programming-darkgreen)
 
 ---
 
