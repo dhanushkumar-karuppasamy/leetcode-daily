@@ -33,6 +33,7 @@ leetcode-daily/
 │   │   │   ├── Day006_33_SearchInRotatedSortedArray.cpp
 │   │   │   ├── Day007_1752_CheckIfArrayIsSortedAndRotated.cpp
 │   │   │   ├── Day008_1340_JumpGameV.cpp
+│   │   │   ├── Day009_1871_JumpGameVII.cpp
 │   │   │   └── ...
 │   │   └── ...
 │   └── ...
@@ -53,6 +54,7 @@ leetcode-daily/
 | 006 | 2026-05-22 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Array, Binary Search | [View](solutions/2026/May/Day006_33_SearchInRotatedSortedArray.cpp) |
 | 007 | 2026-05-23 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | Array | [View](solutions/2026/May/Day007_1752_CheckIfArrayIsSortedAndRotated.cpp) |
 | 008 | 2026-05-24 | [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/) | 🔴 Hard | Array, Dynamic Programming, Memoization | [View](solutions/2026/May/Day008_1340_JumpGameV.cpp) |
+| 009 | 2026-05-25 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | 🟡 Medium | String, Dynamic Programming, Sliding Window | [View](solutions/2026/May/Day009_1871_JumpGameVII.cpp) |
 
 ---
 
@@ -67,6 +69,7 @@ leetcode-daily/
 ![String](https://img.shields.io/badge/-String-yellow)
 ![Trie](https://img.shields.io/badge/-Trie-blueviolet)
 ![Dynamic Programming](https://img.shields.io/badge/-Dynamic%20Programming-darkgreen)
+![Sliding Window](https://img.shields.io/badge/-Sliding%20Window-informational)
 
 ---
 
