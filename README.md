@@ -25,16 +25,11 @@ leetcode-daily/
 ├── solutions/
 │   ├── 2026/
 │   │   ├── May/
-│   │   │   ├── Day001_154_FindMinimumInRotatedSortedArrayII.cpp
-│   │   │   ├── Day002_1306_JumpGameIII.cpp
-│   │   │   ├── Day003_2540_MinimumCommonValue.cpp
-│   │   │   ├── Day004_2657_FindThePrefixCommonArrayOfTwoArrays.cpp
-│   │   │   ├── Day005_3043_FindTheLengthOfTheLongestCommonPrefix.cpp
-│   │   │   ├── Day006_33_SearchInRotatedSortedArray.cpp
-│   │   │   ├── Day007_1752_CheckIfArrayIsSortedAndRotated.cpp
-│   │   │   ├── Day008_1340_JumpGameV.cpp
-│   │   │   ├── Day009_1871_JumpGameVII.cpp
-│   │   │   ├── Day010_3120_CountTheNumberOfSpecialCharactersI.cpp
+│   │   │   ├── Day001 – Day010  (May 16 – May 26)
+│   │   │   ├── Day011_3121_CountTheNumberOfSpecialCharactersII.cpp
+│   │   │   └── ...
+│   │   ├── June/
+│   │   │   ├── Day012_2144_MinimumCostOfBuyingCandiesWithDiscount.cpp
 │   │   │   └── ...
 │   │   └── ...
 │   └── ...
@@ -57,6 +52,8 @@ leetcode-daily/
 | 008 | 2026-05-24 | [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/) | 🔴 Hard | Array, Dynamic Programming, Memoization | [View](solutions/2026/May/Day008_1340_JumpGameV.cpp) |
 | 009 | 2026-05-25 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | 🟡 Medium | String, Dynamic Programming, Sliding Window | [View](solutions/2026/May/Day009_1871_JumpGameVII.cpp) |
 | 010 | 2026-05-26 | [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 🟢 Easy | Hash Table, String, Bit Manipulation | [View](solutions/2026/May/Day010_3120_CountTheNumberOfSpecialCharactersI.cpp) |
+| 011 | 2026-05-27 | [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | 🟡 Medium | String, Hash Table | [View](solutions/2026/May/Day011_3121_CountTheNumberOfSpecialCharactersII.cpp) |
+| 012 | 2026-06-01 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | Array, Greedy, Sorting | [View](solutions/2026/June/Day012_2144_MinimumCostOfBuyingCandiesWithDiscount.cpp) |
 
 ---
 
@@ -73,6 +70,8 @@ leetcode-daily/
 ![Dynamic Programming](https://img.shields.io/badge/-Dynamic%20Programming-darkgreen)
 ![Sliding Window](https://img.shields.io/badge/-Sliding%20Window-informational)
 ![Bit Manipulation](https://img.shields.io/badge/-Bit%20Manipulation-lightgrey)
+![Greedy](https://img.shields.io/badge/-Greedy-brightgreen)
+![Sorting](https://img.shields.io/badge/-Sorting-9cf)
 
 ---
 
