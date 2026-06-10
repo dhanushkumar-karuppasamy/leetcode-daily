@@ -25,11 +25,10 @@ leetcode-daily/
 ├── solutions/
 │   ├── 2026/
 │   │   ├── May/
-│   │   │   ├── Day001 – Day010  (May 16 – May 26)
-│   │   │   ├── Day011_3121_CountTheNumberOfSpecialCharactersII.cpp
+│   │   │   ├── Day001 – Day011  (May 16 – May 27)
 │   │   │   └── ...
 │   │   ├── June/
-│   │   │   ├── Day012_2144_MinimumCostOfBuyingCandiesWithDiscount.cpp
+│   │   │   ├── Day012 – Day022  (Jun 01 – Jun 10)
 │   │   │   └── ...
 │   │   └── ...
 │   └── ...
@@ -39,6 +38,8 @@ leetcode-daily/
 ---
 
 ## 📅 Progress Log
+
+### 📆 May 2026
 
 | Day | Date | Problem | Difficulty | Topic | Solution |
 |-----|------|---------|------------|-------|----------|
@@ -53,7 +54,22 @@ leetcode-daily/
 | 009 | 2026-05-25 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | 🟡 Medium | String, Dynamic Programming, Sliding Window | [View](solutions/2026/May/Day009_1871_JumpGameVII.cpp) |
 | 010 | 2026-05-26 | [3120. Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 🟢 Easy | Hash Table, String, Bit Manipulation | [View](solutions/2026/May/Day010_3120_CountTheNumberOfSpecialCharactersI.cpp) |
 | 011 | 2026-05-27 | [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | 🟡 Medium | String, Hash Table | [View](solutions/2026/May/Day011_3121_CountTheNumberOfSpecialCharactersII.cpp) |
+
+### 📆 June 2026
+
+| Day | Date | Problem | Difficulty | Topic | Solution |
+|-----|------|---------|------------|-------|----------|
 | 012 | 2026-06-01 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | Array, Greedy, Sorting | [View](solutions/2026/June/Day012_2144_MinimumCostOfBuyingCandiesWithDiscount.cpp) |
+| 013 | 2026-06-02 | [3633. Early Finish Times For Land & Water Riders I](https://leetcode.com/problems/early-finish-times-for-land-and-water-riders-i/) | 🟡 Medium | Array, Simulation | [View](solutions/2026/June/Day013_3633_EarlyFinishTimesForLand&WaterRiders-1) |
+| 014 | 2026-06-03 | [3635. Earliest Finish Time for Land & Water Riders II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-riders-ii/) | 🔴 Hard | Array, Binary Search, Heap | [View](solutions/2026/June/Day014_3635_EarliestFinishTimeforLand&Water-1) |
+| 015 | 2026-06-04 | [3751. Total Waviness of Numbers in Range](https://leetcode.com/problems/total-waviness-of-numbers-in-range/) | 🟡 Medium | Math, Prefix Sum | [View](solutions/2026/June/Day015_3751_TotalWavinessofNumbersinRange) |
+| 016 | 2026-06-05 | [3751. Total Waviness of Numbers in Range (Alt)](https://leetcode.com/problems/total-waviness-of-numbers-in-range/) | 🟡 Medium | Math, Prefix Sum | [View](solutions/2026/June/Day016_3751_TotalWavinessofNumbersinRange1) |
+| 017 | 2026-06-06 | [3751. Total Waviness of Numbers in Range (Optimized)](https://leetcode.com/problems/total-waviness-of-numbers-in-range/) | 🟡 Medium | Math, Prefix Sum | [View](solutions/2026/June/Day017_3751_TotalWavinessofNumbersinRange-2) |
+| 018 | 2026-06-07 | [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 Easy | Array, Prefix Sum | [View](solutions/2026/June/Day018_2574.%20Left%20and%20Right%20Sum%20Differences) |
+| 019 | 2026-06-08 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | 🟡 Medium | Tree, Hash Table, BFS | [View](solutions/2026/June/Day019_2196.%20Create%20Binary%20Tree%20From%20Descriptions) |
+| 020 | 2026-06-09 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 Medium | Array, Two Pointers | [View](solutions/2026/June/Day020_2161_PartitionArrayAccordingtoGivenPivot) |
+| 021 | 2026-06-09 | [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | 🟡 Medium | Array, Greedy, Heap | [View](solutions/2026/June/day021_3689.%20Maximum%20Total%20Subarray%20Value%20I) |
+| 022 | 2026-06-10 | [3691. Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | 🔴 Hard | Array, Greedy, Heap, Sparse Table | [View](solutions/2026/June/Day022_3691_MaximumTotalSubarrayValueII.cpp) |
 
 ---
 
@@ -72,6 +88,10 @@ leetcode-daily/
 ![Bit Manipulation](https://img.shields.io/badge/-Bit%20Manipulation-lightgrey)
 ![Greedy](https://img.shields.io/badge/-Greedy-brightgreen)
 ![Sorting](https://img.shields.io/badge/-Sorting-9cf)
+![Heap](https://img.shields.io/badge/-Heap%20%2F%20Priority%20Queue-critical)
+![Tree](https://img.shields.io/badge/-Tree-forestgreen)
+![Prefix Sum](https://img.shields.io/badge/-Prefix%20Sum-lightblue)
+![Sparse Table](https://img.shields.io/badge/-Sparse%20Table-darkblue)
 
 ---
 
